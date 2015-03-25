@@ -5,6 +5,8 @@
  */
 
 
+// aenderung
+
 function doSomething()
 {
     alert("Servus!");
