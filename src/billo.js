@@ -11,3 +11,6 @@ function doSomething()
 {
     alert("Servus!");
 }
+
+function test()
+{}
